@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-quiz-game/static/css/main.763655dc.chunk.css",
-    "main.js": "/react-quiz-game/static/js/main.59ac92d3.chunk.js",
-    "main.js.map": "/react-quiz-game/static/js/main.59ac92d3.chunk.js.map",
+    "main.css": "/react-quiz-game/static/css/main.f37f9822.chunk.css",
+    "main.js": "/react-quiz-game/static/js/main.f0e783fd.chunk.js",
+    "main.js.map": "/react-quiz-game/static/js/main.f0e783fd.chunk.js.map",
     "runtime-main.js": "/react-quiz-game/static/js/runtime-main.06b46349.js",
     "runtime-main.js.map": "/react-quiz-game/static/js/runtime-main.06b46349.js.map",
     "static/js/2.301b1066.chunk.js": "/react-quiz-game/static/js/2.301b1066.chunk.js",
     "static/js/2.301b1066.chunk.js.map": "/react-quiz-game/static/js/2.301b1066.chunk.js.map",
     "index.html": "/react-quiz-game/index.html",
-    "precache-manifest.5cde764ec6f8a601806af3ff082bc8ae.js": "/react-quiz-game/precache-manifest.5cde764ec6f8a601806af3ff082bc8ae.js",
+    "precache-manifest.e2280347f5a376d8c8c3568bdb9780bd.js": "/react-quiz-game/precache-manifest.e2280347f5a376d8c8c3568bdb9780bd.js",
     "service-worker.js": "/react-quiz-game/service-worker.js",
-    "static/css/main.763655dc.chunk.css.map": "/react-quiz-game/static/css/main.763655dc.chunk.css.map",
+    "static/css/main.f37f9822.chunk.css.map": "/react-quiz-game/static/css/main.f37f9822.chunk.css.map",
     "static/js/2.301b1066.chunk.js.LICENSE.txt": "/react-quiz-game/static/js/2.301b1066.chunk.js.LICENSE.txt",
     "static/media/Wrong-answer-sound-effect.mp3": "/react-quiz-game/static/media/Wrong-answer-sound-effect.093eed4f.mp3",
     "static/media/currect-answer.mp3": "/react-quiz-game/static/media/currect-answer.d0c5f222.mp3"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.06b46349.js",
     "static/js/2.301b1066.chunk.js",
-    "static/css/main.763655dc.chunk.css",
-    "static/js/main.59ac92d3.chunk.js"
+    "static/css/main.f37f9822.chunk.css",
+    "static/js/main.f0e783fd.chunk.js"
   ]
 }
